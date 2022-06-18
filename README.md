@@ -1,2 +1,2 @@
 My_first_readme
-Up to date
+up_to_date
